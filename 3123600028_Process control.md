@@ -7,7 +7,7 @@
 
 **Workshop Administrasi Jaringan**  
 
-![logo pens](gambar/logo_pens.jpg)  
+![logo pens](gambar/logo_pens.png)  
 
 **Nama Dosen Pengampu**:  
 Bapak Dr. Ferry Astika Saputra ST, M.Sc  
