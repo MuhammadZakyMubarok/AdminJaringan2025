@@ -14,7 +14,7 @@ Bapak Dr. Ferry Astika Saputra ST, M.Sc
 <br>
 **Dikerjakan oleh**:  
 Nama: Muhammad Zaky Mubarok 
-Kelas: 2 D4 IT A  
+<br>Kelas: 2 D4 IT A  
 NRP: 3123600028  
 
 **POLITEKNIK ELEKTRONIKA NEGERI SURABAYA**   
