@@ -10,7 +10,7 @@
 ![logo pens](gambar/logo_pens.png)  
 
 **Nama Dosen Pengampu**:  
-Bapak Dr. Ferry Astika Saputra ST, M.Sc  
+Dr. Ferry Astika Saputra ST, M.Sc  
 <br>
 **Dikerjakan oleh**:  
 Nama: Muhammad Zaky Mubarok 
